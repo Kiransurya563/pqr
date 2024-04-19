@@ -1,2 +1,3 @@
 login code
 added forgot password link
+added help link
